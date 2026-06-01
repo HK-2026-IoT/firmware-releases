@@ -1,10 +1,10 @@
 {
   "model": "pwrflex",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://raw.githubusercontent.com/HK-2026-IoT/firmware-releases/main/dist/pwrflex/Pwrflex.bin",
-  "sha256": "a595b9f5c9dfe8646adb5e4cc1603e351bd337513064d6d7d8dab3ac464571a9",
+  "sha256": "f576cdf315dc29b4b5b30231c3e60c571ddceecd07aa5b43e67cc04bc5e94d54",
   "size_bytes": 1197104,
-  "released_at": "2026-06-01T21:42:09Z",
+  "released_at": "2026-06-01T22:19:09Z",
   "min_bootloader_version": "1.0.0",
   "notes": "v1.1.1 first GitHub OTA test",
   "rollback_allowed": true
