@@ -1,0 +1,11 @@
+{
+  "model": "ga3",
+  "version": "1.1.3",
+  "url": "https://raw.githubusercontent.com/HK-2026-IoT/firmware-releases/main/dist/ga3/GA3.bin",
+  "sha256": "3683b4a845f09e2f5e30cf7edecb1acfcb2232e6e56f25a53321bf4cb0c4fb03",
+  "size_bytes": 1197120,
+  "released_at": "2026-06-02T00:57:31Z",
+  "min_bootloader_version": "1.0.0",
+  "notes": "ga3 v1.1.3 release",
+  "rollback_allowed": true
+}
